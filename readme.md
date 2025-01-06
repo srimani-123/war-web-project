@@ -29,7 +29,7 @@ Navigate to your project location. Then, simply type
 in your terminal. Your generated WAR file can be found as
 *./target/wwp-1.0.0.war*.
 
-# How do I run this project? ##
+# How do I run this project? 
 
 First of all, you'll need an application server. For this guide, I'll assume
 you've installed Glassfish (for a guide on doing so, please refer to
